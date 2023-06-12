@@ -1,2 +1,2 @@
-# Real---Fake-Job-Posting
+# Real-Fake-Job-Posting
 Word2vec, LSTM, RoBERTA
